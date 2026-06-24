@@ -1,12 +1,12 @@
-Digital Twin Adoption Framework (NRDTAF)
+Digital Twin Adoption Framework (DTAF)
 Overview
 
-This repository presents the Network Rail Digital Twin Adoption Framework (NRDTAF), a structured model developed to support the adoption of Digital Twin technologies in complex infrastructure asset management environments. The work is grounded in engineering project management principles and focuses on enabling scalable, data-driven, and intelligent infrastructure systems.
+This repository presents the Digital Twin Adoption Framework (DTAF), a structured model developed to support the adoption of Digital Twin technologies in complex infrastructure asset management environments. The work is grounded in engineering project management principles and focuses on enabling scalable, data-driven, and intelligent infrastructure systems.
 
 Presentation Structure
 01 — Research Context & Problem
 
-Why Network Rail, why now
+Why the single case, why now
 This section explores the operational, technological, and strategic challenges driving the need for Digital Twin adoption in large-scale rail infrastructure systems. It highlights issues such as aging assets, data fragmentation, maintenance inefficiencies, and the demand for real-time decision-making.
 
 02 — Literature Gap & Research Questions
@@ -32,10 +32,10 @@ Value realisation mechanisms
 
 From these, three original constructs are developed to explain Digital Twin adoption dynamics in infrastructure systems.
 
-05 — Adoption Framework (NRDTAF)
+05 — Adoption Framework (DTAF)
 
 Five-principle strategic model
-The NRDTAF model is built on five core principles:
+The DTAF model is built on five core principles:
 
 Strategic alignment
 Digital capability maturity
@@ -50,7 +50,7 @@ This framework provides a structured roadmap for implementing Digital Twin techn
 Knowledge, recommendations, future work
 This research contributes:
 
-A novel Digital Twin adoption framework (NRDTAF)
+A novel Digital Twin adoption framework (DTAF)
 A structured theoretical and practical model for infrastructure systems
 Actionable recommendations for industry implementation
 
@@ -61,11 +61,11 @@ Research documentation (PDF / Word)
 Framework diagrams and models
 Literature review synthesis
 Methodology notes
-Visual representations of NRDTAF
+Visual representations of DTAF
 Supporting references
 Author
 
-Melvin Chima
+Melvin. C
 Electrical & Electronics Engineer | MSc Engineering Project Management
 Electrical Design Engineer | Digital Twin & Infrastructure Systems Researcher
 
